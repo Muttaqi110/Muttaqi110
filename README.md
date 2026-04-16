@@ -1,27 +1,54 @@
-# Hey there! 👋
+<h1 align="center">Hi, I'm Syed Muhammad Muttaqi Zaidi 👋</h1>
 
-I'm a student diving deep into the world of **Agentic AI** — building intelligent systems that can reason, act, and collaborate. Currently exploring how AI agents work, autonomous workflows, and the future of human-AI teaming.
-
-## 🔭 What I'm Learning
-
-- **Agentic AI** — autonomous AI agents, reasoning loops, tool use
-- **Claude Code** — CLI-powered AI development, workflow automation
-- **Prompt engineering** — getting the best out of AI models
-- **Building AI-powered apps** — from prototypes to production
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<p align="center">
+  <em>Aspiring developer • Lifelong learner • Building with AI tools</em>
 </p>
 
+---
 
-## 🤝 Let's Connect
+## About Me
 
-I'm excited to learn from the community and collaborate on AI projects. Feel free to reach out!
+I'm a passionate learner on a journey to become a well-rounded developer. I'm currently exploring the cutting edge of AI-powered development tools, including **Claude Code** and **OpenClaw**, and discovering how they're reshaping the way software is built.
+
+- 🌱 Currently learning modern AI-assisted development workflows
+- 🛠️ Experimenting with tools like Claude Code and OpenClaw
+- 🎯 Goal: Build real-world projects and grow as a developer
+- 📍 Based in Lahore, Pakistan
 
 ---
-*Building the future with AI agents, one prompt at a time.*
+
+## 🔧 Tools & Technologies
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI--Assisted_Dev-blueviolet?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+> *Stack growing as I learn — check back soon!*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muttaqi110&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muttaqi110&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://github.com/Muttaqi110">
+    <img src="https://img.shields.io/badge/GitHub-Muttaqi110-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"The expert in anything was once a beginner."</em>
+</p>
