@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Syed Muhammad Muttaqi Zaidi 👋</h1>
-
 <p align="center">
-  <em>Aspiring developer • Lifelong learner • Building with AI tools</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Muttaqi%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Developer%20•%20Lifelong%20Learner%20•%20Building%20with%20AI%20Tools&descAlignY=58&descSize=18&descColor=cccccc" />
 </p>
 
 ---
