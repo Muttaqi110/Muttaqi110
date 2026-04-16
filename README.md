@@ -25,18 +25,6 @@ I'm a passionate learner on a journey to become a well-rounded developer. I'm cu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muttaqi110&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muttaqi110&hide_border=true&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p>
