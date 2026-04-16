@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Muttaqi%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Developer%20•%20Lifelong%20Learner%20•%20Building%20with%20AI%20Tools&descAlignY=58&descSize=18&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Muttaqi%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20with%20AI%20Tools&descAlignY=58&descSize=18&descColor=cccccc" />
 </p>
 
 ---
@@ -22,6 +22,18 @@ I'm a passionate learner on a journey to become a well-rounded developer. I'm cu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 > *Stack growing as I learn — check back soon!*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muttaqi110&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muttaqi110&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
